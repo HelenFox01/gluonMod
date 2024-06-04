@@ -40,8 +40,9 @@ gluon currently plans to add:
 - Port-a-Melter upgrade for Sophisticated Backpacks
 - Uncrafting upgrade for Sophisticated Backpacks, with Advanced Uncrafting upgrade (with Polymorph, of course)
 - Enchanting upgrade for Sophisticated Backpacks, with Advanced Enchanting upgrade (portable anvil, portable grindstone)
-- Planty Mush, made with Vines and Water in a Mixer (Create), can be combined with a Crystal Heart. Vivus Fructus adds a whole bar of both regular and absorption hearts (absorption hearts regen at dawn)
-- Vivus Fructus, 
+- Planty Mush, made with Vines and Water in a Mixer (Create).
+- Vivus Fructus, created by combining Crystal Heart with Planty Mush, adds a whole bar of both regular and absorption hearts (absorption hearts regen at dawn)
+- Alchemical Amalgamator, which combines potions (initially 2), can combine 3 if provided Redstone power, 4 if provided Rotational Energy, and 5 if provided fe (power from Create Additions)  
 - Curio Condenser, a crafting station meant specifically to combine up to 6 Curios/Artifacts/Baubles at once
     - changes description of Magic Mirror slightly
     - Infernal Rune in place of Fire Gauntlets as loot
