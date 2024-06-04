@@ -1,2 +1,72 @@
 # gluonMod
 gluon. my modpack compatibility mod, which adds a lot of its own things on top of that for fun.
+
+gluon has currently added:
+nothing
+
+gluon currently plans to add:
+- chest variants for modded wood types
+- its own Terraria-like furniture system with associated furniture crafting stations
+- Appleskin compatibility with Thirst and Energy from Survive
+- cross-mod support between JER and several mods
+- a Valheim-esque "PING" system to temporarily highlight points on Xaero's Worldmap/Minimap
+- an iteration on Survive's Canteens, Water Bottles.
+- Water Bottles made from Plastic Trash found in dungeon loot chests.
+- adds Electrolyte Pack, found primarily in dungeon loot chests, can be added to Purified Water to make Electrolyte Water, which gives one bolt of Energy and replenishes half of the Thirst meter
+- Energy Drinks, which will replenish Energy (four bolts) at the cost of some Thirst (two and a half drops)
+- Acrylic Shards, which drop from Witches, Illagers, Pillagers, and Ravagers, plus can be found in dungeon loot chests
+- Cans, initially made by rolling 2 metal sheets and 1 acrylic sheet in a Can Roller (cross-mod with Create).
+- Cans will have an optional "durability" where the acrylic sheet/coating must be re-applied after washing the can to re-use a certain number of times
+- Rolled Sheets (also comes from pouring Liquid Acrylic onto a Casting Table with an empty Can) let the Cans last 4 washes (gives less energy)
+- Acrylic Spray (applied using an Acrylic Spray Gun attached to an Air Backtank) let the cans last 16 washes (gives slightly more energy)
+- Can Maintenance will be opt-in, being off when gluon is initially downloaded. this can be configured in its menu.
+- a BETTER Uncrafter and Advanced Uncrafter, with the Advanced Uncrafter actually having blast resistance since it's made with Crying Obsidian still
+- Wither Fission Reactor, an Un-crafting station that can downgrade Netherite Gear and get the enchantments back, as well as separate alloys, un-curse items (at the cost of xp), and separate combined potions
+- Charged Wither Skeleton Skull, the main ingredient in the Wither Fission Reactor. made with 3 fulgurite powder, 2 blaze powder, 2 lapis lazuli, and a Wither Skeleton Skull in a Mechanical Crafting Interface
+- Fulgurite, a rare material that can be found naturally in sandy areas (rare as 1.16 Diamonds) or created through Lightning striking Sand, turning it into Sandy Fulgurite Crystals
+- Sandy Fulgurite Crystals, these can be Washed (Create) to get Raw Fulgurite Crystals (or simply Fulgurite), which can be either polished (Sandpaper from Create) or crushed into powder
+- Polished Fulgurite, a shinier glass material that can be turned into Fulgurite Blocks for "decoration"
+- cross-mod between BHC and Survive, giving the extra hearts a "hot" and "cold" texture when Temperature is at either of those two extremes
+- Polymorph support for all Uncrafting stations
+- Holy Water, created with exp levels from the player and a water bottle, a Bottle O' Enchanting brewed into a Mundane Potion, or a piece of Fulgurite brewed into a Thick Potion
+- Cobalt Powder, created by crushing Cobalt Ingots (tConstructe) at a Crusher (Create)
+- Wither Paste, created from Wither Bones (BHC) or Necrotic Bones (tConstruct) + Blaze Powder + Rose Quartz (Create) + Cobalt Powder. Is used as primary fuel for the Wither Fission Reactor
+- Wither Fission Reactor recipe: Advanced Uncrafter, a Nether Star, 2 Precision Mechanisms (Create), 2 Scoria (Create), 2 Cobalt Blocks (tConstruct), 3 Polished Rose Quarts (Create) and a Charged Wither Skeleton Skull at a Mechanical Crafting Interface.
+    - Alloys may only be separated if there is a compatible container that can store liquid metal or other liquids (bucket, ingot gauge, seared/scorched lanters)
+    - Potions may only be separated if there are enough empty glass bottles in the Potion section of the Wither Fission Reactor's UI
+    - Player may sacrifice exp/levels to power the un-curse part of the Wither Fission Reactor
+- Part Builder and Tinker Station upgrade for Sophisticated Backpacks, with Tinker's Anvil upgrade
+- Liquid Obsidian may be poured onto any backpack to add Blast Resistance to it.
+- Port-a-Melter upgrade for Sophisticated Backpacks
+- Uncrafting upgrade for Sophisticated Backpacks, with Advanced Uncrafting upgrade (with Polymorph, of course)
+- Enchanting upgrade for Sophisticated Backpacks, with Advanced Enchanting upgrade (portable anvil, portable grindstone)
+- Planty Mush, made with Vines and Water in a Mixer (Create), can be combined with a Crystal Heart. Vivus Fructus adds a whole bar of both regular and absorption hearts (absorption hearts regen at dawn)
+- Vivus Fructus, 
+- Curio Condenser, a crafting station meant specifically to combine up to 6 Curios/Artifacts/Baubles at once
+    - changes description of Magic Mirror slightly
+    - Infernal Rune in place of Fire Gauntlets as loot
+    - Fennec FlipFlops (Bunny Hoppers + Kitty Slippers)
+    - Climbing Shoes (Running Shoes + Steadfast Spikes)
+    - Tiger Treads (Fennec FlipFlops + Climbing Shoes)
+    - Skipper Sneakers (Tiger Treads + Pirates' Boots)
+    - Intriguing Tophat (Villager Hat + Superstitious Hat)
+    - Pendant of Power (Shock Pendant + Flame Pendant + Thorn Pendant)
+    - Pendant of Wisdon (Lucky Scarf + Cross Necklace + Panic Necklace)
+    - Exo Glove (Pocket Piston + Universal Attractor + Golden Hook)
+    - Cloud in a Balloon (Cloud in a Bottle + Balloon)
+    - Fart in a Jar (Whoopee Cusion + Cloud in a Bottle, same as Cloud in a Bottle, just changes particle color and adds a sound)
+    - Far in a Balloon (Fart in a Jar + Balloon, same as Cloud in a Balloon, just changes particle color and adds a sound)
+    - White Horseshoe Balloon (Cloud in a Balloon + Horseshoe, Horseshoe Balloon + Cloud in a Bottle, same goes for Green Horseshoe Balloon, just with the Fart ones instead)
+    - Captain's Cap (Snorkel + Night Vision Goggles)
+    - Pirates' Boots (Aqua Dashers + Charm of Sinking + Flippers)
+    - Mole Mittens (Digging Claws + Feral Claws)
+    - Silicate Slashers (Mole Mittens + Diamond-Clawed Gauntlet)
+    - Courage Rune (replaces Power Glove as loot)
+    - Pendant of Courage (Courage Rune + Infernal Rune + Antidote Vessel + Vivus Fructus + Cross Necklace)
+    - Greed Pendant (Empty Sin Pendant + 4 Gold Blocks + 4 Diamond Blocks, applies 2 levels Fortune/Looting)
+    - Herculean Rune (Pendant of Power + Pendant of Wisdom + Pendant of Courage)
+    - Gauntlet of the Hero (Herculean Rune + Silicate Slashers)
+    - Corrupt Crucifix (Cross Necklace + Infernal Rune + 4 Sin Essence)
+    - Defiled Rune (Phylactery Charm + Vampiric Glove + Wormhole Mirror)
+    - Acererak's Talisman (Defiled Rune + Corrupt Crucifix)
+    - Icon of Sin (Wrath Pendant + Pride Pendant + Gluttony Pendant + Greed Pendant + Acereraks' Talisman)
