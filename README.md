@@ -52,7 +52,7 @@ gluon currently plans to add:
     - Skipper Sneakers (Tiger Treads + Pirates' Boots)
     - Intriguing Tophat (Villager Hat + Superstitious Hat)
     - Pendant of Power (Shock Pendant + Flame Pendant + Thorn Pendant)
-    - Pendant of Wisdon (Lucky Scarf + Cross Necklace + Panic Necklace)
+    - Pendant of Wisdom (Lucky Scarf + Cross Necklace + Panic Necklace)
     - Exo Glove (Pocket Piston + Universal Attractor + Golden Hook)
     - Cloud in a Balloon (Cloud in a Bottle + Balloon)
     - Fart in a Jar (Whoopee Cusion + Cloud in a Bottle, same as Cloud in a Bottle, just changes particle color and adds a sound)
